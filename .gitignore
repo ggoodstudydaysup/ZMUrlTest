@@ -5,6 +5,9 @@
 ## User settings
 xcuserdata/
 
+## finder 生成
+*/.DS_Store
+
 ## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
 *.xcscmblueprint
 *.xccheckout
